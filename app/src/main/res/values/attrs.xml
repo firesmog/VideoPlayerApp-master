@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--字体-->
+    <attr name="text1" format="string" />
+    <!--字体颜色-->
+    <attr name="text2" format="string" />
+    <!--字体大小-->
+    <attr name="titleTextSize" format="dimension" />
+    <declare-styleable name="CustomTitleView">
+        <attr name="text1" />
+        <attr name="text2" />
+        <attr name="titleTextSize" />
+    </declare-styleable>
+</resources>
